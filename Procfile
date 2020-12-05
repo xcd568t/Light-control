@@ -1,1 +1,1 @@
-worker: python Lightcontrol.py
+worker: python lightctrlbot.py
